@@ -29,4 +29,4 @@ The conda environment is listed in [requirements.txt](https://github.com/whubaic
 The best unsupervised MVS network until April 17, 2020. See the [leaderboard ](https://www.tanksandtemples.org/details/853/). 
 
 ## Acknowledgement
-We acknowledge the following repositories [MVSNet](https://github.com/YoYo000/MVSNet) and [MVSNet_pytorch](https://github.com/xy-guo/MVSNet_pytorch). For more information about MVSNet series, please see the [material](https://mp.weixin.qq.com/s/fnKU4dkYvBEU913Vanj54Q)
+We acknowledge the following repositories [MVSNet](https://github.com/YoYo000/MVSNet) and [MVSNet_pytorch](https://github.com/xy-guo/MVSNet_pytorch). For more information about MVSNet series, please see the [material](https://mp.weixin.qq.com/s/fnKU4dkYvBEU913Vanj54Q).
