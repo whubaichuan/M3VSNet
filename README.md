@@ -16,7 +16,7 @@ We proposed an unsupervised learning-based network, named NPF-MVSNet, for multi-
 - python 3.6.9
 - pytorch 1.0.1
 - CUDA 10.1 cudnn 7.5.0
-The conda environment is listed in [requirements.txt](https://github.com/)
+The conda environment is listed in [requirements.txt](https://github.com/whubaichuan/NPF-MVSNet/blob/master/requirements.txt)
 
 ### Train
 
