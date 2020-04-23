@@ -6,7 +6,7 @@ We proposed an unsupervised learning-based network, named NPF-MVSNet, for multi-
 ```
 @inproceedings{Huang2020NPFMVSNetNA,
   title={NPF-MVSNet: Normal and Pyramid Feature Aided Unsupervised MVS Network},
-  author={Baichuan Huang and Can Huang and Yijia He and Jingbin Liu and Xin Liu},
+  author={Baichuan Huang and Can Huang and Yijia He and Jingbin Liu and Xiao Liu},
   year={2020}
 }
 ```
