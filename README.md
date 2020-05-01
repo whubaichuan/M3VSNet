@@ -1,14 +1,10 @@
-# NPF-MVSNet
+# M<sup>3</sup>VSNet
 Code openning soon before May 2020
 
 ## About
-We proposed an unsupervised learning-based network, named NPF-MVSNet, for multi-view stereo reconstruction without ground-truth 3D training data. If you find this project useful for your research, please cite:
+The present MVS methods with deep learning have an impressive performance than traditional MVS methods. However, the learning-based networks need lots of ground-truth 3D training data, which is not always easy to be available. To relieve the expensive costs, we propose a novel unsupervised normal-aided multi-metric network, named M<sup>3</sup>VSNet, for multi-view stereo reconstruction without ground-truth 3D training data., please cite:
 ```
-@inproceedings{Huang2020NPFMVSNetNA,
-  title={NPF-MVSNet: Normal and Pyramid Feature Aided Unsupervised MVS Network},
-  author={Baichuan Huang and Can Huang and Yijia He and Jingbin Liu and Xiao Liu},
-  year={2020}
-}
+Wait for the publish in arXiv. Please see the [paper](https://whubaichuan.github.io/data/M3VSNet.pdf).
 ```
 
 ## How to use
@@ -17,7 +13,7 @@ We proposed an unsupervised learning-based network, named NPF-MVSNet, for multi-
 - pytorch 1.0.1
 - CUDA 10.1 cudnn 7.5.0
 
-The conda environment is listed in [requirements.txt](https://github.com/whubaichuan/NPF-MVSNet/blob/master/requirements.txt)
+The conda environment is listed in [requirements.txt](https://github.com/whubaichuan/M3VSNet/blob/master/requirements.txt)
 
 ### Train
 
