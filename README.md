@@ -4,7 +4,13 @@ Code openning soon before May 2020
 ## About
 The present MVS methods with deep learning have an impressive performance than traditional MVS methods. However, the learning-based networks need lots of ground-truth 3D training data, which is not always easy to be available. To relieve the expensive costs, we propose a novel unsupervised normal-aided multi-metric network, named M<sup>3</sup>VSNet, for multi-view stereo reconstruction without ground-truth 3D training data., please cite: 
 ```
-Wait for the publish in arXiv. Please see the https://whubaichuan.github.io/data/M3VSNet.pdf.
+@article{Huang2020M3VSNet,
+  title={M^3VSNet: Unsupervised Multi-metric Multi-view Stereo Network},
+  author={Baichuan Huang and Can Huang and Yijia He and Jingbin Liu and Xin Liu},
+  journal={ArXiv},
+  year={2020},
+  volume={abs/2005.00363}
+}
 ```
 
 ## How to use
