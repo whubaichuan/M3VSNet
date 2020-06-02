@@ -1,15 +1,18 @@
 # M<sup>3</sup>VSNet
-Code openning soon before May 2020
+Code openning soon！
 
 ## About
-The present MVS methods with deep learning have an impressive performance than traditional MVS methods. However, the learning-based networks need lots of ground-truth 3D training data, which is not always easy to be available. To relieve the expensive costs, we propose a novel unsupervised normal-aided multi-metric network, named M<sup>3</sup>VSNet, for multi-view stereo reconstruction without ground-truth 3D training data., please cite: 
+The present Multi-view stereo (MVS) methods with supervised learning-based networks have an impressive performance comparing with traditional MVS methods. However, the ground-truth depth maps for training are hard to be obtained and are within limited kinds of scenarios. In this paper, we propose a novel unsupervised multi-metric MVS network, named M<sup>3</sup>VSNet, for dense point cloud reconstruction without any supervision. To improve the robustness and completeness of point cloud reconstruction, we propose a novel multi-metric loss function that combines pixel-wise and feature-wise loss function to learn the inherent constraints from different perspectives of matching correspondences. Besides, we also incorporate the normal-depth consistency in the 3D point cloud format to improve the accuracy and continuity of the estimated depth maps. Experimental results show that M<sup>3</sup>VSNet establishes the state-of-the-arts unsupervised method and achieves comparable performance with previous supervised MVSNet on the DTU dataset and demonstrates the powerful generalization ability on the Tanks and Temples benchmark with effective improvement.
+
+
+Please cite: 
 ```
 @article{Huang2020M3VSNet,
-  title={M^3VSNet: Unsupervised Multi-metric Multi-view Stereo Network},
-  author={Baichuan Huang and Can Huang and Yijia He and Jingbin Liu and Xin Liu},
+  title={M<sup>3</sup>VSNet: Unsupervised Multi-metric Multi-view Stereo Network},
+  author={Baichuan Huang and Hongwei Yi and Can Huang and Yijia He and Jingbin Liu and Xin Liu},
   journal={ArXiv},
   year={2020},
-  volume={abs/2005.00363}
+  volume={abs/2004.09722v2}
 }
 ```
 
