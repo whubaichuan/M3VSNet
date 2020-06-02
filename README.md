@@ -8,7 +8,7 @@ The present Multi-view stereo (MVS) methods with supervised learning-based netwo
 Please cite: 
 ```
 @article{Huang2020M3VSNet,
-  title={M<sup>3</sup>VSNet: Unsupervised Multi-metric Multi-view Stereo Network},
+  title={M^3VSNet: Unsupervised Multi-metric Multi-view Stereo Network},
   author={Baichuan Huang and Hongwei Yi and Can Huang and Yijia He and Jingbin Liu and Xin Liu},
   journal={ArXiv},
   year={2020},
