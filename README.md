@@ -41,7 +41,7 @@ The conda environment is listed in [requirements.txt](https://github.com/whubaic
 | MVSNet(D=196)         | 0.444  | 0.741  | 0.592    |
 | Unsup_MVS         | 0.881  | 1.073  | 0.977    |
 | MVS2         | 0.760  | 0.515  | 0.637   |
-| PyTorch-MVSNet(D=192) | 0.636 | 0.531 | 0.583   |
+| M3VSNet(D=192) | 0.636 | 0.531 | 0.583   |
 
 ### T&T Benchmark
 The best unsupervised MVS network until April 17, 2020. See the [leaderboard ](https://www.tanksandtemples.org/details/853/). 
