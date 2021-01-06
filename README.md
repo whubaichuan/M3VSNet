@@ -1,5 +1,7 @@
 # M<sup>3</sup>VSNet
 The code is available now!!!
+![M3VSNet](https://github.com/whubaichuan/M3VSNet/blob/master/img/network.png)
+
 
 ## About
 The present Multi-view stereo (MVS) methods with supervised learning-based networks have an impressive performance comparing with traditional MVS methods. However, the ground-truth depth maps for training are hard to be obtained and are within limited kinds of scenarios. In this paper, we propose a novel unsupervised multi-metric MVS network, named M<sup>3</sup>VSNet, for dense point cloud reconstruction without any supervision. To improve the robustness and completeness of point cloud reconstruction, we propose a novel multi-metric loss function that combines pixel-wise and feature-wise loss function to learn the inherent constraints from different perspectives of matching correspondences. Besides, we also incorporate the normal-depth consistency in the 3D point cloud format to improve the accuracy and continuity of the estimated depth maps. Experimental results show that M<sup>3</sup>VSNet establishes the state-of-the-arts unsupervised method and achieves comparable performance with previous supervised MVSNet on the DTU dataset and demonstrates the powerful generalization ability on the Tanks and Temples benchmark with effective improvement.
@@ -36,6 +38,8 @@ The conda environment is listed in [requirements.txt](https://github.com/whubaic
 * Test MVSNet: ``./test.sh``
 
 ## Results
+![Results](https://github.com/whubaichuan/M3VSNet/blob/master/img/result.png)
+
 |                       | Acc.   | Comp.  | Overall. |
 |-----------------------|--------|--------|----------|
 | MVSNet(D=196)         | 0.444  | 0.741  | 0.592    |
