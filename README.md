@@ -32,7 +32,7 @@ The conda environment is listed in [requirements.txt](https://github.com/whubaic
 
 ### Eval
 * Download the preprocessed test data [DTU testing data](https://drive.google.com/open?id=135oKPefcPTsdtLRzoDAQtPpHuoIrpRI_) (from [Original MVSNet](https://github.com/YoYo000/MVSNet), or the Baiduyun [link](https://pan.baidu.com/s/1sQAC3pmceyochNvnqpE9oA), the password is mo8w ) and unzip it as the ``DTU_TESTING`` folder, which should contain one ``cams`` folder, one ``images`` folder and one ``pair.txt`` file.
-* in ``test.sh``, set ``DTU_TESTING`` as your testing data path and ``CKPT_FILE`` as your checkpoint file. You can find some models in the /checkpoint/. You can use the trained model to test your image.
+* in ``test.sh``, set ``DTU_TESTING`` as your testing data path and ``CKPT_FILE`` as your checkpoint file. You can find some models in the /checkpoint/. You can use the trained models to test your image.
 * Test MVSNet: ``./test.sh``
 
 ## Results
