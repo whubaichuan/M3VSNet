@@ -11,7 +11,7 @@ Please cite:
 ```
 @article{Huang2020M3VSNet,
   title={M^3VSNet: Unsupervised Multi-metric Multi-view Stereo Network},
-  author={Baichuan Huang and Hongwei Yi and Can Huang and Yijia He and Jingbin Liu and Xin Liu},
+  author={Baichuan Huang and Hongwei Yi and Can Huang and Yijia He and Jingbin Liu and Xiao Liu},
   journal={ArXiv},
   year={2020},
   volume={abs/2004.09722v2}
