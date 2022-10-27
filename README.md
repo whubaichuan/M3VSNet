@@ -9,12 +9,13 @@ The present Multi-view stereo (MVS) methods with supervised learning-based netwo
 
 Please cite: 
 ```
-@article{Huang2020M3VSNet,
-  title={M^3VSNet: Unsupervised Multi-metric Multi-view Stereo Network},
-  author={Baichuan Huang and Hongwei Yi and Can Huang and Yijia He and Jingbin Liu and Xiao Liu},
-  journal={ArXiv},
-  year={2020},
-  volume={abs/2004.09722v2}
+@inproceedings{huang2021m3vsnet,
+  title={M3VSNet: Unsupervised multi-metric multi-view stereo network},
+  author={Huang, Baichuan and Yi, Hongwei and Huang, Can and He, Yijia and Liu, Jingbin and Liu, Xiao},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+  pages={3163--3167},
+  year={2021},
+  organization={IEEE}
 }
 ```
 
